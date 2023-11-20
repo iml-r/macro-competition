@@ -1,0 +1,15 @@
+Feature	English	German	Dutch	Russian	French	Spanish
+kolik_se_najde_prekladu_z_cs_do_ostatnich	472	1282	1156	1138	1142	1034
+kolik_se_najde_prekladu_z_ostatnich_do_cs	472	1282	1156	1138	1142	1034
+kolik_se_najde_prekladu_z_cs_pres_ostatni_do_cs	472	1282	1156	1138	1142	1034
+jaky_je_prumerny_pocet_kandidatu_pri_cs_do_ostatni	1.61	4.13	2.96	2.82	2.57	2.34
+jaky_je_prumerny_pocet_kandidatu_pri_ostatni_do_cs	3.43	13.93	11.7	11.66	13.11	11.33
+jaky_je_prumerny_pocet_kandidatu_pri_cs_pres_ostatni_do_cs	3.43	13.93	11.7	11.66	13.11	11.33
+kolik_kompletnich_prekladu_ma_pouze_pozadovanou_formu	189	52	72	49	46	66
+kolik_kompletnich_prekladu_ma_soucasti_pozadovanou_formu	472	1282	1156	1131	1132	1026
+kolik_kompletnich_prekladu_ma_pouze_neutralni_formu	0	0	0	0	0	0
+kolik_kompletnich_prekladu_ma_soucasti_neutralni_formu	18	139	196	55	117	150
+kolik_prekladu_z_cs_do_ostatni_je_kopie	0	0	1	0	1	0
+kolik_prekladu_z_ostatni_do_cs_je_kopie	0	0	1	0	1	0
+
+kolik_prekladu_pro_vsechny_jazyky	215

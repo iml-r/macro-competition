@@ -1,0 +1,22 @@
+ & cs & en & de & nl & fr & es & ru & \\
+diminutives & Derivative & Compound & Phrase & Unmotivated & Unmarked & Derivative & Compound & Phrase & Unmotivated & Unmarked & Derivative & Compound & Phrase & Unmotivated & Unmarked & Derivative & Compound & Phrase & Unmotivated & Unmarked & Derivative & Compound & Phrase & Unmotivated & Unmarked & Derivative & Compound & Phrase & Unmotivated & Unmarked & Derivative & Compound & Phrase & Unmotivated & Unmarked & \\
+Google & 41 & 0 & 0 & 0 & 0 & 12 & 7 & 4 & 18 & 0 & 11 & 24 & 3 & 3 & 0 & 14 & 19 & 2 & 6 & 0 & 17 & 1 & 9 & 14 & 0 & 24 & 0 & 5 & 12 & 0 & 32 & 0 & 6 & 3 & 0 & \\
+PanLex & 320 & 0 & 0 & 0 & 0 & 63 & 43 & 77 & 137 & 0 & 59 & 132 & 17 & 112 & 0 & 59 & 109 & 16 & 136 & 0 & 135 & 5 & 51 & 129 & 0 & 161 & 4 & 40 & 115 & 0 & 267 & 3 & 19 & 31 & 0 & \\
+SD & 621 & 0 & 0 & 0 & 0 & 146 & 57 & 0 & 418 & 0 & 117 & 210 & 0 & 294 & 0 & 97 & 150 & 0 & 374 & 0 & 236 & 11 & 0 & 374 & 0 & 278 & 13 & 0 & 330 & 0 & 538 & 3 & 0 & 80 & 0 & \\
+Treq & 607 & 0 & 0 & 0 & 0 & 84 & 24 & 230 & 269 & 0 & 111 & 57 & 249 & 190 & 0 & 170 & 42 & 253 & 142 & 0 & 136 & 3 & 357 & 111 & 0 & 188 & 2 & 271 & 146 & 0 & 333 & 3 & 227 & 44 & 0 & \\
+ND & 57 & 0 & 0 & 0 & 0 & 21 & 16 & 0 & 20 & 0 & 2 & 55 & 0 & 0 & 0 & 34 & 15 & 0 & 8 & 0 & 32 & 8 & 0 & 17 & 0 & 42 & 3 & 0 & 12 & 0 & 50 & 2 & 0 & 5 & 0 & \\
+CogNet & 1 & 0 & 0 & 0 & 0 & 0 & 0 & 1 & 0 & 0 & 0 & 1 & 0 & 0 & 0 & 0 & 1 & 0 & 0 & 0 & 1 & 0 & 0 & 0 & 0 & 1 & 0 & 0 & 0 & 0 & 1 & 0 & 0 & 0 & 0 & \\
+UWN & 152 & 0 & 0 & 0 & 0 & 37 & 16 & 40 & 59 & 0 & 23 & 64 & 9 & 56 & 0 & 32 & 53 & 3 & 64 & 0 & 53 & 4 & 35 & 60 & 0 & 77 & 0 & 14 & 61 & 0 & 123 & 0 & 13 & 16 & 0 & \\
+Merged & 930 & 0 & 0 & 0 & 0 & 176 & 78 & 225 & 451 & 0 & 176 & 271 & 180 & 303 & 0 & 228 & 176 & 187 & 339 & 0 & 306 & 16 & 283 & 325 & 0 & 383 & 14 & 203 & 330 & 0 & 653 & 8 & 184 & 85 & 0 & \\
+
+ & cs & en & de & nl & fr & es & ru & \\
+social-gender & Derivative & Compound & Phrase & Unmotivated & Unmarked & Derivative & Compound & Phrase & Unmotivated & Unmarked & Derivative & Compound & Phrase & Unmotivated & Unmarked & Derivative & Compound & Phrase & Unmotivated & Unmarked & Derivative & Compound & Phrase & Unmotivated & Unmarked & Derivative & Compound & Phrase & Unmotivated & Unmarked & Derivative & Compound & Phrase & Unmotivated & Unmarked & \\
+Google & 206 & 0 & 0 & 0 & 0 & 24 & 1 & 5 & 27 & 149 & 23 & 8 & 0 & 26 & 149 & 30 & 7 & 2 & 29 & 138 & 85 & 9 & 6 & 22 & 84 & 175 & 0 & 3 & 28 & 0 & 134 & 25 & 1 & 13 & 33 & \\
+PanLex & 131 & 0 & 0 & 0 & 0 & 31 & 16 & 18 & 28 & 38 & 48 & 28 & 1 & 16 & 38 & 46 & 22 & 1 & 31 & 31 & 58 & 3 & 16 & 25 & 29 & 78 & 1 & 16 & 36 & 0 & 93 & 12 & 8 & 8 & 10 & \\
+SD & 367 & 0 & 0 & 0 & 0 & 73 & 36 & 0 & 108 & 150 & 266 & 48 & 0 & 36 & 17 & 115 & 49 & 0 & 87 & 116 & 195 & 11 & 0 & 83 & 78 & 261 & 7 & 0 & 99 & 0 & 303 & 7 & 0 & 33 & 24 & \\
+Treq & 252 & 0 & 0 & 0 & 0 & 44 & 17 & 91 & 47 & 53 & 142 & 22 & 59 & 14 & 15 & 79 & 22 & 99 & 26 & 26 & 108 & 2 & 112 & 23 & 7 & 130 & 0 & 71 & 51 & 0 & 108 & 2 & 124 & 12 & 6 & \\
+ND & 53 & 0 & 0 & 0 & 0 & 8 & 23 & 0 & 15 & 7 & 47 & 6 & 0 & 0 & 0 & 40 & 11 & 0 & 0 & 2 & 45 & 1 & 0 & 4 & 3 & 47 & 1 & 0 & 5 & 0 & 45 & 8 & 0 & 0 & 0 & \\
+CogNet & 3 & 0 & 0 & 0 & 0 & 0 & 0 & 1 & 0 & 2 & 3 & 0 & 0 & 0 & 0 & 1 & 0 & 0 & 0 & 2 & 1 & 0 & 0 & 0 & 2 & 3 & 0 & 0 & 0 & 0 & 3 & 0 & 0 & 0 & 0 & \\
+UWN & 68 & 0 & 0 & 0 & 0 & 13 & 11 & 9 & 20 & 15 & 24 & 14 & 3 & 11 & 16 & 19 & 14 & 0 & 12 & 23 & 34 & 3 & 5 & 13 & 13 & 46 & 1 & 7 & 14 & 0 & 55 & 3 & 1 & 4 & 5 & \\
+Merged & 619 & 0 & 0 & 0 & 0 & 92 & 50 & 85 & 124 & 268 & 305 & 69 & 50 & 51 & 144 & 161 & 74 & 78 & 101 & 205 & 285 & 20 & 96 & 94 & 124 & 424 & 8 & 74 & 113 & 0 & 407 & 40 & 102 & 34 & 36 & \\
+
